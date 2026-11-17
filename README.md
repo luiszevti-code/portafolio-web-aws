@@ -8,6 +8,7 @@ Sitio personal estático (HTML, CSS y JavaScript) alojado en **Amazon S3** con *
 
 ![Vista previa del sitio](docs/vista-previa.jpg)
 
+![Segunda vista previa del sitio](docs/vista-previa2.jpg)
 ---
 
 ## Qué incluye
