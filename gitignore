@@ -1,0 +1,12 @@
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Nunca subir credenciales ni claves de AWS
+.env
+*.pem
+*.key
+credentials
+.aws/
